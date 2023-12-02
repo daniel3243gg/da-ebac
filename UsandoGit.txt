@@ -1,0 +1,27 @@
+git clone < link > #clona um respositorio online
+!git config --global user.name "${GITHUB_USER}" #define seu username no git
+!git config --global user.email "${GITHUB_EMAIL}" #define seu email no git
+!git status #verifica os status da pasta 
+!git add #adiciona um arquivo no git/ deixar concienti do arquivo
+!git commit -m # compromete algo 
+!git push origin main #voce envia a alteraçao local para a remota 
+!git rm -r <nome do que ser removido> #remove pastas é arquivos
+!git log <nome do arquivo> aparece todos os commit do arquivo
+!git log #aparece todos os comites do init
+!git log online #aparece os commit de forma reduzida 
+!git diff <arquivo> #mostra as alteraçoes entre o sterage é working
+!git reset <arquivo> #desfaz o arquivo que esta n sterage para o work
+!git reset #envia todos os da sterage para o working
+!git checkout #atualiza os arquivos da zona working é sterage para o o arquivo atualizado (o que esta no commit)
+!git pull atualiza o projeto local com o remoto 
+
+
+
+
+
+
+
+
+
+
+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'
